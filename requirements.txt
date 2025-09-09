@@ -1,0 +1,9 @@
+torch
+torchvision
+human_eval
+Requests
+numpy
+tqdm
+transformers
+datasets
+
